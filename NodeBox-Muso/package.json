@@ -1,0 +1,16 @@
+{
+  "name": "nodebox-muso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/NodeOrchestra.js",
+  "author": "Pascal Düblin",
+  "license": "-",
+  "dependencies": {
+    "NodeOrchestra": "^0.0.1",
+    "kue": "^0.9.6",
+    "mysql": "^2.9.0",
+    "pg": "^4.4.3",
+    "mongo-sql": "^2.7.1",
+    "redis": "^0.12.1"
+  }
+}

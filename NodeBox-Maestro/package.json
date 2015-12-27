@@ -1,0 +1,16 @@
+{
+  "name": "nodebox-maestro",
+  "version": "0.0.1",
+  "description": "\"Polyglot persistence middleware layer\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pascal Düblin",
+  "license": "-",
+  "dependencies": {
+    "net": "^1.0.2",
+    "redis": "^0.12.1",
+    "kue": "^0.9.6"
+  }
+}
